@@ -9,3 +9,5 @@ func Greet(name string) string {
 func Farewell(name string) string {
 	return "Bye, " + name
 }
+
+func Ping() string { return "pong" }
