@@ -5,3 +5,7 @@ func Hello() string { return "hello" }
 func Greet(name string) string {
 	return "Hello, " + name
 }
+
+func Farewell(name string) string {
+	return "Bye, " + name
+}
