@@ -11,3 +11,5 @@ func Farewell(name string) string {
 }
 
 func Ping() string { return "pong" }
+
+func Wave() string { return "wave" }
